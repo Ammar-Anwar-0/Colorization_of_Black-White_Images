@@ -94,31 +94,31 @@ Grayscale → Predicted → Ground Truth
 
 ### 🔹 Pretrained ResNet
 Grayscale → Predicted → Ground Truth  
-![ResNet Pretrained](./images/resnet_Pretraining.JPG)
+![ResNet Pretrained](./Images/resnet_Pretraining.JPG)
 
 ---
 
 ### 🔹 Pretrained Pix2Pix GAN
 Grayscale → Predicted → Ground Truth  
-![Pix2Pix Pretrained](./images/pix_2_pix_Pretraining.JPG)
+![Pix2Pix Pretrained](./Images/pix_2_pix_Pretraining.JPG)
 
 ---
 
 ### 🔸 Fine-tuned UNet
 Grayscale → Predicted → Ground Truth  
-![UNet FineTuned](./images/unet_Fine-tuned.JPG)
+![UNet FineTuned](./Images/unet_Fine-tuned.JPG)
 
 ---
 
 ### 🔸 Fine-tuned ResNet
 Grayscale → Predicted → Ground Truth  
-![ResNet FineTuned](./images/resnet_Fine-tuned.JPG)
+![ResNet FineTuned](./Images/resnet_Fine-tuned.JPG)
 
 ---
 
 ### 🔸 Fine-tuned Pix2Pix GAN
 Grayscale → Predicted → Ground Truth  
-![Pix2Pix FineTuned](./images/pix_2_pix_Fine-tuned.JPG)
+![Pix2Pix FineTuned](./Images/pix_2_pix_Fine-tuned.JPG)
 
 ---
 
