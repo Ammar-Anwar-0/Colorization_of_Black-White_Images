@@ -94,31 +94,31 @@ Grayscale → Predicted → Ground Truth
 
 ### 🔹 Pretrained ResNet
 Grayscale → Predicted → Ground Truth  
-![ResNet Pretrained](./images/resnet_pretrained.png)
+![ResNet Pretrained](./images/resnet_Pretraining.JPG)
 
 ---
 
 ### 🔹 Pretrained Pix2Pix GAN
 Grayscale → Predicted → Ground Truth  
-![Pix2Pix Pretrained](./images/pix2pix_pretrained.png)
+![Pix2Pix Pretrained](./images/pix_2_pix_Pretraining.JPG)
 
 ---
 
 ### 🔸 Fine-tuned UNet
 Grayscale → Predicted → Ground Truth  
-![UNet FineTuned](./images/unet_finetuned.png)
+![UNet FineTuned](./images/unet_Fine-tuned.JPG)
 
 ---
 
 ### 🔸 Fine-tuned ResNet
 Grayscale → Predicted → Ground Truth  
-![ResNet FineTuned](./images/resnet_finetuned.png)
+![ResNet FineTuned](./images/resnet_Fine-tuned.JPG)
 
 ---
 
 ### 🔸 Fine-tuned Pix2Pix GAN
 Grayscale → Predicted → Ground Truth  
-![Pix2Pix FineTuned](./images/pix2pix_finetuned.png)
+![Pix2Pix FineTuned](./images/pix_2_pix_Fine-tuned.JPG)
 
 ---
 
@@ -134,12 +134,7 @@ Fine-tuning significantly improved model performance across the board. Future wo
 
 ## ✍️ Authors
 
-- Sameer Tahir — i200455@nu.edu.pk  
-- Ammar M. Anwar — i202468@nu.edu.pk  
-- Umar Asghar — i210409@nu.edu.pk  
-
----
-
-## 📚 References
-
-Refer to the paper for a detailed list of citations and sources used.
+- Ammar M. Anwar 
+- Sameer Tahir 
+- Umar Asghar
+  
